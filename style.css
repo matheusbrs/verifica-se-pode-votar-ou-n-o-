@@ -1,0 +1,46 @@
+#formulario{
+    color: blue;
+    border: solid 1px blue;
+    border-left: 10%;
+    width: 40%;
+    height: 350px;
+    margin-left: 30%;
+    margin-top:10% ;
+    background: white;
+}
+body{
+background: rgb(71, 71, 155);
+}
+
+.tmo{
+    font-size: 150%;
+
+}
+
+#btm{
+    
+        border: none;
+        padding: 10px;
+        text-decoration: none;
+        cursor: pointer;
+        transition: background .3s;
+        border-radius: 5px;
+        color: green;
+        margin-left: 60%;
+        margin-top: 4%;
+}
+#idade{
+    margin-top: 10%;
+    margin-left: 25%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#nm{
+    margin-top: 25%;
+    margin-left: 23%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#fundo{
+
+    border: solid 2px red;
+}
