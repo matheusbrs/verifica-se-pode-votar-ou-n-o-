@@ -1,0 +1,28 @@
+#fundo{
+ width: 50%;
+ height: 300px;
+ border: solid 1px red;
+ margin-left: 25%;
+ margin-top: 10%;
+ background: white;
+
+}
+
+#vlt{
+    
+    margin-top: 8%;
+    margin-left: 85%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: blue;
+}
+
+#conteudo{
+  border: solid 1px black;
+    margin-left: 28%;
+    width: 40%;
+    margin-top: 16%;
+}
